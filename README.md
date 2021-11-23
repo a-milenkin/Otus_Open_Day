@@ -2,7 +2,7 @@
 
 Тема: "Построение пайплайнов с помощью sklearn или как выделиться на фоне остальных"
 
-[![Code style: black](/images/Industrial-Pipeline-Cleaning.jpg)](https://github.com/psf/black)
+[![Code style: black](/images/pipe_mem.PNG)](https://github.com/psf/black)
 
 
 # 1 день.  
